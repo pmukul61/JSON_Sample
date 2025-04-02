@@ -1,5 +1,5 @@
 Timestamp,Server/Storage Name,Total Capacity (GB),Used Capacity (GB),Free Capacity (GB),Usage Percentage (%),Read Speed (MB/s),Write Speed (MB/s),Disk Health Status
-2025-03-29 10:00:00,Server_D,1000,60,457,68,191,119,Good
+2025-03-29 10:00:00,Server_D,60,60,457,68,191,119,Good
 2025-03-29 10:05:00,Server_B,2000,1104,896,57,157,196,Warning
 2025-03-29 10:10:00,Server_D,1500,1779,0,84,227,170,Critical
 2025-03-29 10:15:00,Server_A,2500,726,1774,52,119,109,Good
